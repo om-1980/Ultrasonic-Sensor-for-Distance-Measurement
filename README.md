@@ -8,3 +8,6 @@ An ultrasonic sensor uses sound waves to measure distance. It emits high-frequen
 # Circuit Diagram
     
 ![Circuit](https://github.com/om-1980/Ultrasonic-Sensor-for-Distance-Measurement/assets/111452597/147b40b5-1f4e-4b5e-b06e-6f3c02d7463c)
+
+# Demo Link
+https://www.tinkercad.com/things/5kyMyC3u5jc-ultrasonic-sensor-for-distance-measurement
